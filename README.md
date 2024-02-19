@@ -42,9 +42,10 @@ This repository hosts a comprehensive Java market management system. The system 
 - **Order and Payment Processing**: `SiparisVeOdeme` handles order taking and payments, with a dedicated GUI component `GUI_SiparisVeOdeme`.
 
 ### GUI Components
-- `GUI_Urun`: Manages the product-related user interface.
-- `GUI_Musteri`: Handles customer management operations.
-- `GUI_User`: Provides authentication and user management interface.
+- `UrunGUI`: Manages the product-related user interface.
+- `MusteriGUI`: Handles customer management operations.
+- `SiparisGUI`: Provides an interface for viewing and editing orders.
+- `YazilimKullaniciGUI`: Provides authentication and user management interface for software users.
 
 ### Testing
 - Unit tests for each component ensure the system is tested and ready for deployment.
