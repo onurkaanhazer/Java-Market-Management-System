@@ -7,6 +7,7 @@ This repository hosts a comprehensive Java market management system. The system 
 
 
 *An overview of the system architecture depicting the relationships between GUI components and business logic.*
+![Ekran görüntüsü 2024-02-19 142830](https://github.com/onurkaanhazer/Java-Market-Management-System/assets/122304587/35c840de-ab14-41a2-a2e1-3adb3699e136)
 
 ## Features
 
