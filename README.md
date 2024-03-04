@@ -56,36 +56,5 @@ We welcome contributions that help improve the system. Please ensure that any co
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-# Terimlerin İngilizce-Türkçe Karşılıkları
 
-Aşağıda, projenin UML diyagramında kullanılan İngilizce terimlerin Türkçe karşılıkları bir tablo halinde verilmiştir.
-
-| English            | Türkçe                  |
-|-----------------------|-------------------------|
-| Order                 | Sipariş                 |
-| Payment               | Ödeme                   |
-| Product               | Ürün                    |
-| Customer              | Müşteri                 |
-| User                  | Kullanıcı               |
-| Order and Payment     | Sipariş ve Ödeme        |
-| Product Test          | Ürün Testi              |
-| Customer Test         | Müşteri Testi           |
-| User Test             | Kullanıcı Testi         |
-| Controller            | Kontrolör               |
-| Product Controller    | Ürün Kontrolörü         |
-| Customer Controller   | Müşteri Kontrolörü      |
-| User Controller       | Kullanıcı Kontrolörü    |
-| GUI Order and Payment | GUI Sipariş ve Ödeme    |
-| GUI Product           | GUI Ürün                |
-| GUI Customer          | GUI Müşteri             |
-| GUI User              | GUI Kullanıcı           |
-| Technological Product | Teknolojik Ürün         |
-| Cleaning Product      | Temizlik Ürünü          |
-| Food Product          | Gıda Ürünü              |
-| Controller Test       | Kontrolör Testi         |
-| GUI Product Test      | GUI Ürün Testi          |
-| GUI Customer Test     | GUI Müşteri Testi       |
-| GUI User Test         | GUI Kullanıcı Testi     |
-
-Bu tablo, kodun daha iyi anlaşılabilmesi için terimlerin çevirilerini içermektedir.
 
